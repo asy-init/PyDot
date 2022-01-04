@@ -1,9 +1,0 @@
-1. name db
-2. dir db
-3. template db
-4. script db
-5. ask user input for dir == name == script
-6. if y
-a = .config/alacritty = true
-
-ask user if a = name
