@@ -53,7 +53,7 @@ cover/
 
 # Translations
 *.mo
-*.pot
+/*.pot
 
 # Django stuff:
 *.log
@@ -134,8 +134,7 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-*
-.*
+
 # Pyre type checker
 .pyre/
 
