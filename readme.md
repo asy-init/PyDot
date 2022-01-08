@@ -17,15 +17,12 @@ git clone https://github.com/asy-init/PyDot
 
 ```cpp
 
-$ pydot list
+$ pydot --list
 
-$ pydot add <file/dir>
+$ pydot --add <dir>
 
-$ pydot rm <file/dir>
+$ pydot --remove <dir>
 
-$ pydot status
-
-$ pydot zip
 ```
 ```diff
 # Examples
